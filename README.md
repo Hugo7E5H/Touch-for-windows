@@ -12,7 +12,7 @@ A small implementation of the `touch` command for Windows, allowing you to creat
 
 ## Installation
 
-1. Clone this repository or download the latest release
+1. Clone this repository 
 3. Run `add_to_path.bat` as Administrator to add the program to your system PATH
 4. Restart your terminal for the changes to take effect
 
@@ -20,7 +20,7 @@ A small implementation of the `touch` command for Windows, allowing you to creat
 
 Basic syntax:
 ```
-touch <file1> [file2 ...] [--force] [--update]
+touch <file1> <file2> [--force] [--update]
 ```
 
 ### Options
