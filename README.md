@@ -13,7 +13,7 @@ A small implementation of the `touch` command for Windows, allowing you to creat
 ## Installation
 
 1. Clone this repository 
-3. Run `add_to_path.bat` as Administrator to add the program to your system PATH
+3. Run `add_to_path.bat` as Administrator to add the program to your PATH
 4. Restart your terminal for the changes to take effect
 
 ## Usage
@@ -29,11 +29,6 @@ touch <file1> <file2> [--force] [--update]
 - `--update`: Only update the timestamp of existing files
 
 ### Examples
-
-Create a new file:
-```powershell
-touch newfile.txt
-```
 
 Update timestamp of existing file:
 ```powershell
